@@ -1,1 +1,1 @@
-# Projet-IA-D-tection-Comportements-Seniors
+# Projet IA Detection Comportements Seniors
